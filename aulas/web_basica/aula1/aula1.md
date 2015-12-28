@@ -20,3 +20,12 @@
 ```html 
   <html> = TAG HTML 
 ```
+
+####Tags:
+
+##### HTML:
+##### HEAD:
+##### TITLE:
+##### BODY:
+##### INPUT:
+##### SPAN:
