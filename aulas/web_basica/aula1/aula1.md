@@ -23,7 +23,8 @@
 
 ####Tags:
 
-##### HTML:
+##### HTML: 
+* Marcação da página. Tudo que está dentro destas tags faz parte do site e é mandado para o computador do cliente.
 ##### HEAD:
 ##### TITLE:
 ##### BODY:
