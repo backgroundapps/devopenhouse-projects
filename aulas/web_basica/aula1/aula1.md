@@ -28,6 +28,7 @@
 ##### HEAD:
 * ficam as informações de cabeçario como titulo da pagina e metas com descrições especificas para o site, além de muitas outras coisas. O objetivo é ter a descrição do site. 
 ##### TITLE:
+* O titulo do site. Aparece na aba do navegador e nos resultados de pesquisa.
 ##### BODY:
 ##### INPUT:
 ##### SPAN:
