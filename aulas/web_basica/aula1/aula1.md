@@ -7,7 +7,7 @@
 ```html
 <html>
   <head>
-    <title></title>
+    <title>Título do site</title>
   </head>
   <body>
     Inclua aqui o seu <span>Nome</span>: 
