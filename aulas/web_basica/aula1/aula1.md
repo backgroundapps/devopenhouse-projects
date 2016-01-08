@@ -30,5 +30,6 @@
 ##### TITLE:
 * O titulo do site. Aparece na aba do navegador e nos resultados de pesquisa.
 ##### BODY:
+* Esse é o corpo da pagina ... neste local é onde inserimos tudo aquilo que será exibido no nosso site, como textos, imagens, videos, etc.
 ##### INPUT:
 ##### SPAN:
