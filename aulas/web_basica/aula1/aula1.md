@@ -37,5 +37,6 @@
 * Esse é o corpo da pagina ... neste local é onde inserimos tudo aquilo que será exibido no nosso site, como textos, imagens, videos, etc.
 
 ##### INPUT:
+* Essa TAG é usada para entrada de informação. Ex: Uma caixa de texto onde podemos informar nosso nome.
 
 ##### SPAN:
