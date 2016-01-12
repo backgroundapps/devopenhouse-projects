@@ -40,3 +40,4 @@
 * Essa TAG é usada para entrada de informação. Ex: Uma caixa de texto onde podemos informar nosso nome.
 
 ##### SPAN:
+* Esta serve para destacar determinada palavra ou frase dentro de um texto.
