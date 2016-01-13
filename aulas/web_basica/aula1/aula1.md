@@ -26,9 +26,17 @@
 
 ##### HTML: 
 * Marcação da página. Tudo que está dentro destas tags faz parte do site e é mandado para o computador do cliente.
+```html
+<html></html> 
+```
 
 ##### HEAD:
 * ficam as informações de cabeçario como titulo da pagina e metas com descrições especificas para o site, além de muitas outras coisas. O objetivo é ter a descrição do site. 
+```html
+<html>
+  <head></head>
+</html> 
+```
 
 ##### TITLE:
 * O titulo do site. Aparece na aba do navegador e nos resultados de pesquisa.
