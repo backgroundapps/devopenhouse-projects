@@ -54,6 +54,13 @@
 
 ##### INPUT:
 * Essa TAG é usada para entrada de informação. Ex: Uma caixa de texto onde podemos informar nosso nome.
+* Algumas TAGs possuem tipos, como é o caso do `INPUT`.
+Ex:
+```html
+<input type="text">
+<input type="hidden">
+<input type="submit">
+```
 
 ##### SPAN:
 * Esta serve para destacar determinada palavra ou frase dentro de um texto.
